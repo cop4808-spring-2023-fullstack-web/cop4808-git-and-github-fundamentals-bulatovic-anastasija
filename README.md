@@ -1,4 +1,4 @@
-# NAME: ANASTASIJA BULATOVIC
+# NAME: ANASTASIJA BULATOVIC !
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
