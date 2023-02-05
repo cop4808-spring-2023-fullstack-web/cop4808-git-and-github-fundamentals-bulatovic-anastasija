@@ -176,8 +176,13 @@ function operate(x, y, op) {
         } else {
         return x / y;
         }
-    }
+    } //else if (op == 'SQR'){
+       //return x * x;
+        //}
+
 }
+
+
 
 function roundAccurately(num, places) {
     return parseFloat(Math.round(num + 'e' + places) + 'e-' + places);
