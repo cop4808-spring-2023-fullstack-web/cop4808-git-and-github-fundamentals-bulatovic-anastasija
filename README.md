@@ -1,5 +1,51 @@
 # NAME: ANASTASIJA BULATOVIC !
+# Z NUMBER: 23402921
 # :wave: The Basics of GitHub 
+
+## Homework #2 README
+
+ *Add a new row of buttons at the top of the calculator - making it the first row of buttons.  It has to be below the number output and above the “AC, +/-, %, /“ buttons. Include a screenshot showing you adding the row and the empty buttons in the writeup document (10 points)*
+	* 
+[image:6BD22ECE-8605-4620-9946-7905BB173BF7-35048-00006B04D30A8508/9342C2DA-7E0B-4373-8D3B-AF0F5FE34A48.png]
+
+* *Create a new CSS class with a different background color for these new buttons. Buttons should be the same size as the others and the text should be bold on the buttons (15)*
+	* Created a new class called “NewFunctions” and set the background color to “crimson”
+	* 
+[image:48CA23FA-161A-411D-9643-3579B096B434-35048-0000713D26AD87FF/C1658253-1CF9-40A1-9192-298EEC89662E.png]
+
+	* Ran into the bug where the bottom row of buttons was squished and too short. I changed the row number from 5 to 6 to accommodate the new row of functions. The buttons are the same sizes as the rest now. 
+	* 
+[image:D239FCF4-A062-4864-BA18-210F2C82B151-35048-00006F909AECEED4/D65B3C45-51D1-4916-900B-05EAA6CE9B3A.png]
+The text on each of the buttons is the same font, weight, and size. The functions I plan on implementing are: SQRT, SQR, X^3, and |X|
+I committed the changes above to the GitHub repository. 
+
+[image:FA91593F-EA4D-4586-BF0C-CF9D4719DB22-35048-00007022730C0434/FF0B5790-832A-4DCB-B9AD-A01613D5395F.png]
+
+
+* *Implement 4 new functions - one for each button and implement them (25)*
+	* The Functions I implemented:
+SQRT: which is the square root of a number function
+SQR: Which is the square of a number function
+X^3: which is the cube of a number function 
+|X|: which is the absolute value of a number function 
+
+This is the Javascript implementation of the functions:
+[image:90D5645B-AAD0-433A-BBBC-C65BCE8860B0-35048-00007201183A44E6/D195B0A7-1318-4463-B754-DCDB7F7A36E1.png]
+
+
+* *Output results must stay within the digital readout. (10 points)*
+Output results do stay within the digital readout. 
+	* output stats within the digital readout, in the picture below I found the square of 50 and this is what the answers readout looked like:
+	* 
+[image:1A5B8443-F2AC-4F2A-A1DF-C519EA2C58BA-35048-0000721323705A60/55E12B1C-B799-417A-822F-42FFE494BF6F.png]
+* I committed all my changes to the GitHub repository and updated the ReadMe document.
+* 
+
+
+
+
+____________________________________________________________________________
+## Homework #1 Read Me
 
 ## 🤓 Course overview and learning outcomes 
 

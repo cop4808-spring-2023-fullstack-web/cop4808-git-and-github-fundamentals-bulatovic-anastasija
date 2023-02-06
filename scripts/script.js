@@ -177,6 +177,7 @@ function operate(x, y, op) {
         } else {
         return x / y;
         }
+    //new functions implmented for the newly added buttons
     } else if (op === 'SQR'){
          return Math.pow(x, 2);
     }else if (op === 'SQRT'){
