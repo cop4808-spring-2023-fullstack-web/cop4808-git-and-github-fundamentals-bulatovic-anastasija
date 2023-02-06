@@ -46,7 +46,8 @@ For my calculator the following keyboard keys will do the following operations: 
 
 The rest of the operations and functions retain the keybinds from the original "CALC YA LATER" source code <br/>
 
-MY GIF WALK THROUGH:
+### MY GIF WALK THROUGH:
+The walk through demos the 4 new functions I implmented during this homework assignment.
 
 ![ezgif-3-e4c07271f9](https://user-images.githubusercontent.com/66039575/216895597-68591cbb-d6b2-40af-abdc-b088f9cb7d2e.gif)
 
